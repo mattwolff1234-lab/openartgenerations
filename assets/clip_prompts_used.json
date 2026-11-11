@@ -1,0 +1,273 @@
+[
+ {
+  "model": "byte-plus-seedance-2-5-draft",
+  "mode": "element2video",
+  "duration": 5,
+  "refs": [
+   "Matt-Early"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, warm afternoon window light as a soft key light on his face, soft rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue and soft room tone only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: a cozy small apartment bedroom, a desk with a closed laptop softly out of focus behind him. Characters: the exact man from the Matt-Early character sheet reference (stocky young man, jet-black mullet with a high fade, full beard, small gold hoop earrings; plain charcoal oversized t-shirt), bright, full-eyed, hopeful and a little bubbly, warm friendly mid-range young male voice, casual and upbeat. Only one person in frame. Shot 1 (0-5s): medium close-up, he looks straight into the camera, grins and leans in slightly; he says: \"Okay, give me thirty seconds. This is gonna change everything.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Early",
+   "Priya",
+   "Brandon",
+   "Set-Hallway"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, a warm table lamp inside the apartment and a brass wall sconce in the hallway as soft key lights on faces, soft rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, footsteps and a door closing only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the apartment entryway and hallway from the Set-Hallway reference image. STAGING: Raghav stays inside the apartment just behind the open door; Priya starts beside him and walks out through the doorway into the hallway; Brandon waits in the hallway and never enters the apartment; nobody walks through the door frame or furniture. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt, dark jeans), hopeful then quietly hurt, warm mid-range young male voice; Priya from the Priya reference (long dark wavy hair, gold hoops; rose-pink wrap dress, duffel bag on her shoulder), cool and dismissive, clear cool young female voice; Brandon from the Brandon reference (slicked-back blond hair, clean-shaven; navy quarter-zip vest, light-blue shirt, blue lanyard with a blank badge), smug, smooth smug baritone voice. Raghav holds a tiny terracotta pot with a small green sprout in both hands the whole clip. Shot 1 (0-4s): close-up, Priya, duffel on her shoulder, looks at Raghav without warmth; she says: \"Raghav, you make cartoons in your bedroom.\" Shot 2 (4-7s): she turns and steps into the hallway beside Brandon; she says: \"Brandon has a real job.\" Shot 3 (7-10s): medium shot, Brandon taps the badge on his lanyard with a smirk; he says: \"Badge and everything.\" Shot 4 (10-15s): close-up, Raghav looks down at the tiny sprout, then back up, quiet but sure; he says: \"It's a seed. It grows.\" The door swings shut."
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 12,
+  "refs": [
+   "Raghav-Early",
+   "Set-Desk"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, a warm desk lamp as a soft key light on his face, soft laptop glow as fill, soft rim light from the window, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: ONLY diegetic sound effects (keyboard typing, mouse clicks, a soft notification chime) and his dialogue. Absolutely no music of any kind, no song, no beat, no score. No subtitles, no on screen text, no text bubbles. Setting: the bedroom desk at night from the Set-Desk reference image. The laptop screen shows only soft abstract glowing shapes, no interface, no logos, no readable text. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), focused and determined, a small proud smile when it works, warm mid-range young male voice. Quick montage: Shot 1 (0-3s): close-up of his hands typing fast, the tiny sprout in its terracotta pot beside the laptop; he says: \"One idea.\" Shot 2 (3-6s): his face lit by the screen, he leans in and grins; he says: \"One explainer.\" Shot 3 (6-9s): he clicks once and leans back; the sprout is now noticeably taller with several leaves; he says: \"Post it.\" Shot 4 (9-12s): wider shot, a different night, coffee mugs piled up, the plant now a small leafy plant; he pulls the laptop closer; he says: \"Again.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Later",
+   "Priya",
+   "Brandon",
+   "Set-Cafe"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, morning sunlight through the arched windows as a soft key light on faces, warm pendant lights as rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, soft caf\u00e9 ambience, an espresso machine hiss, and a faint friendly narration from the caf\u00e9 TV only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the caf\u00e9 from the Set-Cafe reference image. STAGING: Raghav sits at the small table in the foreground beside the tall potted plant; Priya and Brandon start near the back counter under the TV, then step toward his table; nobody walks through tables or chairs. The TV on the back wall plays a bright Pixar-style animated explainer of a seed sprouting into a plant, narrated in Raghav's voice, no text, no logos. Characters: Raghav from the Raghav-Later reference (same face, jet-black mullet with high fade, full beard; open black overshirt over a white t-shirt, thin gold chain), calm, half-lidded, light closed-mouth smirk, warm mid-range young male voice, relaxed and unhurried; Priya from the Priya reference (rose-pink wrap dress, gold hoops), stunned, clear cool young female voice; Brandon from the Brandon reference (navy vest, light-blue shirt, lanyard), confused then impressed, smooth smug baritone voice. Shot 1 (0-3s): wide shot, Priya holding a coffee cup freezes, staring at the TV; she says: \"Wait... that's you?\" Shot 2 (3-6s): Brandon looks from the TV to Raghav, jaw slack; he says: \"How did you even make that?\" Shot 3 (6-11s): close-up, Raghav takes a sip of coffee, glances at the tall plant beside him, light closed-mouth smirk; he says: \"Told you. It's a seed. It grows.\" Shot 4 (11-15s): he sets the cup down and looks straight into the camera; he says: \"Five steps.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Later",
+   "Set-Cafe"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, morning window light as a soft key light on his face, warm pendant light as rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue and soft caf\u00e9 ambience only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the caf\u00e9 from the Set-Cafe reference image, Raghav seated at the foreground table beside the tall plant. Beside him floats a soft glowing panel that changes per step to simple stylized logo-free icons: a blank browser window, a typing cursor, three simple option cards, a row of storyboard frames, a share arrow. No readable text, no logos, no real app interface. Characters: Raghav from the Raghav-Later reference (open black overshirt over a white t-shirt, thin gold chain), calm, confident, friendly teacher energy, warm mid-range young male voice. Shot 1 (0-4s): medium close-up, he holds up his index finger only; he says: \"One, go to openart dot A I slash try and scroll to Quick Starts.\" Shot 2 (4-7s): index and middle fingers up; he says: \"Two, click Explainer and type your idea.\" Shot 3 (7-10s): index, middle and ring fingers up; he says: \"Three, pick the style, length and narration.\" Shot 4 (10-13s): four fingers up, thumb tucked; he says: \"Four, generate and tweak the scenes.\" Shot 5 (13-15s): he points at the camera with a light smirk; he says: \"Five, now post.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Early",
+   "Priya",
+   "Brandon",
+   "Set-Hallway"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, a brass wall sconce in the hallway and a warm lamp inside the apartment as soft key lights on faces, soft rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, a loud hard slap on the door, a door creak, footsteps and keys jingling only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the apartment front door and hallway from the Set-Hallway reference image. STAGING: the landlord is never fully shown, only his thick forearm in a plaid flannel sleeve and his fist; Raghav stands in his open doorway; Priya comes from inside the apartment behind him and walks past him out into the hallway; Brandon waits in the hallway and never enters the apartment; nobody walks through the door frame or furniture. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt, dark jeans), shocked then hurt then quietly determined, warm mid-range young male voice; Priya from the Priya reference (long dark wavy hair, gold hoops; rose-pink wrap dress, small gold bag, carrying a packed duffel bag), cold and done, clear cool young female voice; Brandon from the Brandon reference (slicked-back blond hair, clean-shaven; navy quarter-zip vest, light-blue shirt, blue lanyard), smug, smooth smug baritone voice. Shot 1 (0-2s): extreme close-up on the outside of the apartment door, a heavy fist SLAMS a bright red paper notice onto the door with a loud slap, the paper has no readable text; a gruff older male voice off screen says: \"Pay or leave, Raghav.\" Shot 2 (2-6s): the door swings open, Raghav stares at the red notice in shock; Priya walks out past him with her duffel bag, not looking at him; she says: \"I can't do broke anymore.\" Shot 3 (6-9s): medium shot in the hallway, Brandon jingles his car keys with a smirk; he says: \"Some of us have real jobs, man.\" Shot 4 (9-12s): Priya glances back over her shoulder, cold; she says: \"Go make your little cartoons.\" Shot 5 (12-15s): close-up, Raghav alone in the doorway, jaw tight, rips the red notice off the door and stares down at it in his hand, a spark of determination in his eyes. He says nothing."
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 12,
+  "refs": [
+   "Raghav-Early",
+   "Set-Desk"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, a warm desk lamp as a soft key light on his face, soft laptop glow as fill, soft rim light from the window, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: ONLY diegetic sound effects (tape tearing, keyboard typing, mouse clicks, a soft notification chime, paper crumpling) and his dialogue. Absolutely no music of any kind, no song, no beat, no score. No subtitles, no on screen text, no text bubbles. Setting: the bedroom desk at night from the Set-Desk reference image. The laptop screen shows only soft abstract glowing shapes, no interface, no logos, no readable text. The red paper notice has no readable text. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), determined, then a small proud smile, warm mid-range young male voice. Quick montage: Shot 1 (0-3s): he tapes the same bright red paper notice to the wall above his desk, sits down and flips the laptop open; he says: \"One idea.\" Shot 2 (3-6s): his face lit by the screen, typing fast, leaning in with a grin; he says: \"One explainer.\" Shot 3 (6-9s): he clicks once, a soft chime, he leans back; he says: \"Post it. Again.\" Shot 4 (9-12s): a later night, coffee mugs piled up, he peels the red notice off the wall, crumples it and tosses it into a trash can, small proud smile; he says: \"Rent's paid.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Later",
+   "Priya",
+   "Brandon",
+   "Set-Cafe",
+   "Prop-Car"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, morning sunlight through the tall arched windows as a soft key light on faces, warm pendant lights as rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, soft caf\u00e9 ambience, an espresso machine hiss, a card reader beep and keys jingling only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the caf\u00e9 from the Set-Cafe reference image; through the window the matte-black sports car from the Prop-Car reference is parked at the curb, no badges, no logos. STAGING: all three stand at the caf\u00e9 counter, Priya and Brandon on one side, Raghav arriving beside them; nobody walks through tables, chairs or the counter. Characters: Raghav from the Raghav-Later reference (same face, jet-black mullet with high fade, full beard; open black overshirt over a white t-shirt, thin gold chain), calm, half-lidded, light closed-mouth smirk, warm mid-range young male voice, relaxed and unhurried; Priya from the Priya reference (rose-pink wrap dress, gold hoops, small gold bag), stunned, clear cool young female voice; Brandon from the Brandon reference (navy vest, light-blue shirt, lanyard), confused then deflated, smooth smug baritone voice. Shot 1 (0-4s): at the counter, Priya reaches into her small gold bag to pay; Raghav steps in beside her and taps his phone on the card reader first, beep; he says: \"I got it.\" Shot 2 (4-7s): Brandon notices the car keys in Raghav's hand, then looks out the window at the matte-black sports car at the curb; he says: \"Wait... that's your car?\" Shot 3 (7-10s): close-up, Raghav twirls the keys once, light closed-mouth smirk; he says: \"Cartoons.\" Shot 4 (10-13s): Priya, stunned, staring at him; she says: \"How did you...?\" Shot 5 (13-15s): Raghav turns and looks straight into the camera; he says: \"Five steps.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Later",
+   "Set-Office"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, the brass dome desk lamp as a warm soft key light on his face, cool blue city glow from the windows as rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, light keyboard typing and soft room tone only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the upscale home office at night from the Set-Office reference image. STAGING: Raghav sits in the black leather chair behind the walnut desk, centered, facing the camera; the laptop sits open on the desk to his right, screen facing him and away from the camera, no visible interface; the front half of the desk in front of him stays clear and empty; camera locked off, medium shot from the chest up with the desk in the lower third. Characters: Raghav from the Raghav-Later reference (same face, jet-black mullet with high fade, full beard; open black overshirt over a white t-shirt, thin gold chain), calm, confident, friendly teacher energy, warm mid-range young male voice. Shot 1 (0-3s): he types briefly on the laptop, then looks up into the camera; he says: \"One, go to openart dot A I slash try.\" Shot 2 (3-7s): hands resting on the desk, talking to camera; he says: \"Two, click Explainer and type what you want to explain.\" Shot 3 (7-10s): he gestures lightly with one open hand; he says: \"Three, add your audience and pick a visual style.\" Shot 4 (10-13s): he taps one key on the laptop; he says: \"Four, hit Direct my explainer.\" Shot 5 (13-15s): he leans back slightly with a light smirk and points at the camera; he says: \"Five, now post.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "text2video",
+  "duration": 10,
+  "refs": [],
+  "prompt": "A finished kids science explainer video about the water cycle, minimal clean 3D animated style: soft matte clay-like shapes, pastel blue, white and warm yellow palette, simple rounded forms, gentle smooth camera moves, bright even soft lighting, vertical 9:16. Language: English only. Audio: a warm, friendly female narrator voiceover and soft whooshes and raindrop sound effects only, absolutely no music, no song, no beat. No subtitles, no on screen text, no labels, no logos. Shot 1 (0-3s): a smiling round sun warms a calm blue ocean, tiny wisps of vapor rise from the water; the narrator says: \"The sun warms the ocean, and water rises as vapor.\" Shot 2 (3-6s): the vapor gathers into puffy white clouds that grow darker and heavier; the narrator says: \"Up high, it cools and turns into clouds.\" Shot 3 (6-8s): rain falls from the clouds onto green hills; the narrator says: \"Then it falls back down as rain.\" Shot 4 (8-10s): the rain flows down a little river back into the ocean, and the whole loop glows; the narrator says: \"And that's the water cycle!\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 8,
+  "refs": [
+   "Raghav-Later",
+   "Set-Office"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, the brass dome desk lamp as a warm soft key light on his face, cool blue city glow from the windows as rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue and soft room tone only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the upscale home office at night from the Set-Office reference image. STAGING: exactly the same framing as before: Raghav sits in the black leather chair behind the walnut desk, centered, facing the camera; the laptop sits open on the desk to his right, screen facing away from the camera; the front half of the desk stays clear and empty; camera locked off, medium shot from the chest up with the desk in the lower third. Characters: Raghav from the Raghav-Later reference (same face, jet-black mullet with high fade, full beard; open black overshirt over a white t-shirt, thin gold chain), calm, confident, a light knowing smirk, warm mid-range young male voice. Shot 1 (0-3s): he leans back in the chair, opens both hands with a smug little shrug and a smirk; he says: \"And start printing.\" Shot 2 (3-8s): he leans forward toward the camera, friendly, eyebrows up, pointing down toward the comments; he says: \"Now comment A I if you want the full setup.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Early",
+   "Boss-Dana",
+   "Tyler",
+   "Set-Cubicle"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, cool overhead office light and soft window light as key light on faces, soft rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, a loud cardboard box slam, papers rustling and office ambience only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the office cubicle from the Set-Cubicle reference image. STAGING: Raghav sits at his cubicle desk; Dana stands beside the desk; Tyler leans on the cubicle wall behind them; nobody walks through the cubicle walls or desk. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt, dark jeans), shocked then quietly determined, warm mid-range young male voice; Dana from the Boss-Dana reference (silver bob, red reading glasses on a chain; charcoal suit, crimson blouse), cold and dismissive, crisp cold older female voice; Tyler from the Tyler reference (spiky ginger hair, freckles; bright green company fleece, green lanyard), smug, nasal smug young male voice. The cardboard box and badges have no readable text. Shot 1 (0-2s): close-up, an empty cardboard box SLAMS down onto Raghav's desk, papers jump; Dana says: \"Clear your desk, Raghav.\" Shot 2 (2-6s): Raghav looks up at her, stunned; Dana, coldly: \"Anyone could do your job with a cartoon.\" Shot 3 (6-10s): Tyler leans on the cubicle wall sipping coffee with a smirk; he says: \"Don't let the door hit you, man.\" Shot 4 (10-15s): close-up, Raghav alone at the desk, jaw tight, slowly lifts the empty cardboard box and stares into it, a spark of determination. He says nothing."
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 12,
+  "refs": [
+   "Raghav-Early",
+   "Set-Desk"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, a warm desk lamp as a soft key light on his face, soft laptop glow as fill, soft rim light from the window, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: ONLY diegetic sound effects (cardboard thud, keyboard typing, mouse clicks, a soft notification chime) and his dialogue. Absolutely no music of any kind, no song, no beat, no score. No subtitles, no on screen text, no text bubbles. Setting: the bedroom desk at night from the Set-Desk reference image. The laptop screen shows only soft abstract glowing shapes, no interface, no logos, no readable text. The cardboard box and lanyard have no readable text. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), determined, then a small proud smile, warm mid-range young male voice. Quick montage: Shot 1 (0-3s): he drops the same empty cardboard box on the floor next to his desk, sits down and flips the laptop open; he says: \"One idea.\" Shot 2 (3-6s): his face lit by the screen, typing fast, leaning in with a grin; he says: \"One explainer.\" Shot 3 (6-9s): he clicks once, a soft chime, he leans back; he says: \"Post it. Again.\" Shot 4 (9-12s): a later night, coffee mugs piled up, he drops his old green company lanyard into the cardboard box and folds the lid shut with a small proud smile; he says: \"Done with that.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Later",
+   "Boss-Dana",
+   "Tyler",
+   "Set-Lobby"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, bright sunlight through the tall lobby windows as soft key light on faces, soft rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, lobby ambience, footsteps and a faint friendly narration from the big screen only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the corporate lobby from the Set-Lobby reference image. The huge wall screen plays a bright Pixar-style animated explainer of the water cycle (sun, clouds, rain), narrated in Raghav's voice, no text, no logos. STAGING: Dana and Tyler stand in the middle of the lobby facing the big screen; Raghav walks in from the entrance behind them and stops a few steps away; nobody walks through the turnstiles or the reception desk. Characters: Raghav from the Raghav-Later reference (same face, jet-black mullet with high fade, full beard; open black overshirt over a white t-shirt, thin gold chain, a plain visitor badge clipped on, no readable text), calm, half-lidded, light closed-mouth smirk, warm mid-range young male voice, relaxed; Dana from the Boss-Dana reference (silver bob, red glasses; charcoal suit, crimson blouse), impressed then stunned, crisp cold older female voice; Tyler from the Tyler reference (spiky ginger hair; green fleece, lanyard), shocked, nasal smug young male voice. Shot 1 (0-4s): Dana stops mid-stride with her coffee, staring up at the explainer on the big screen; she says: \"Who made this? Get them on the phone.\" Shot 2 (4-7s): Tyler stares at the screen, then turns, eyes wide; he says: \"Wait... that's Raghav.\" Shot 3 (7-11s): Raghav strolls past them with a calm smirk; he says: \"Just a cartoon.\" Shot 4 (11-13s): Dana, stunned, lowering her glasses; she says: \"How did you...?\" Shot 5 (13-15s): close-up, Raghav turns and looks straight into the camera; he says: \"Five steps.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Early",
+   "Dad",
+   "Cousin-Arjun",
+   "Mom",
+   "Set-Dining"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, the warm pendant light over the table as soft key light on faces, soft rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, a picture frame slapped onto a table, plates rattling and cutlery clinks only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the family dining room from the Set-Dining reference image. STAGING: all four sit at the dining table: Raghav on one side, Dad at the head of the table, Mom beside Dad, Cousin Arjun across from Raghav; nobody stands or walks through the table. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), hurt then quietly determined, warm mid-range young male voice; Dad from the Dad reference (salt-and-pepper mustache, reading glasses; grey shirt, navy sweater vest), stern, deep stern older male voice; Arjun from the Cousin-Arjun reference (neat side-parted hair, wire glasses; white doctor's coat over navy scrubs), polite and smug, smooth polite young male voice; Mom from the Mom reference (low bun, nose stud; maroon kurta), worried and gentle, soft warm older female voice. The framed photo shows Arjun in a graduation cap, no readable text. Shot 1 (0-2s): close-up, Dad SLAMS a framed graduation photo of Arjun down onto the table right in front of Raghav's plate, plates rattle; Dad says: \"Look at your cousin, beta.\" Shot 2 (2-5s): Arjun smiles politely, adjusting his glasses; he says: \"Residency's going great, by the way.\" Shot 3 (5-9s): Dad raises one finger, stern; he says: \"Cartoons don't pay bills.\" Shot 4 (9-12s): Mom, worried, softly; she says: \"Just think about it, beta.\" Shot 5 (12-15s): close-up, Raghav stares at the framed photo, jaw tight, and slowly pushes his plate away. He says nothing."
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 12,
+  "refs": [
+   "Raghav-Early",
+   "Mom",
+   "Set-Desk"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, a warm desk lamp as a soft key light on faces, soft laptop glow as fill, soft rim light from the window, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: ONLY diegetic sound effects (keyboard typing, mouse clicks, a soft notification chime, a teacup set down) and dialogue. Absolutely no music of any kind, no song, no beat, no score. No subtitles, no on screen text, no text bubbles. Setting: the bedroom desk at night from the Set-Desk reference image. The laptop screen shows only soft abstract glowing shapes, no interface, no logos, no readable text. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), determined, then a warm smile, warm mid-range young male voice; Mom from the Mom reference (low bun, nose stud; maroon kurta), gentle and proud, soft warm older female voice, she only appears in Shot 4. Quick montage: Shot 1 (0-3s): he sets a small empty photo frame on the desk next to the laptop and flips the laptop open; he says: \"One idea.\" Shot 2 (3-6s): his face lit by the screen, typing fast, leaning in with a grin; he says: \"One explainer.\" Shot 3 (6-9s): he clicks once, a soft chime, he leans back; he says: \"Post it. Again.\" Shot 4 (9-12s): a later night, Mom quietly sets a cup of chai beside his laptop and squeezes his shoulder; he looks up and smiles; he says: \"Almost there, Mom.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Later",
+   "Dad",
+   "Mom",
+   "Cousin-Arjun",
+   "Set-Dining"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, the warm pendant light over the table plus warm festive string lights as soft key light on faces, soft rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, festive dinner ambience, cutlery clinks and a faint friendly narration from the tablet only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the same family dining room from the Set-Dining reference image, now decorated for a holiday with warm string lights and marigold garlands. Dad holds a tablet that plays a bright Pixar-style animated explainer of the water cycle (sun, clouds, rain), no text, no logos. STAGING: Dad sits at the head of the table holding the tablet; Mom sits beside him; Arjun sits leaning over toward the tablet; Raghav arrives and stands at the end of the table holding a wrapped gift box; nobody walks through the table. Characters: Raghav from the Raghav-Later reference (same face, jet-black mullet with high fade, full beard; open black overshirt over a white t-shirt, thin gold chain), calm, half-lidded, light closed-mouth smirk, warm mid-range young male voice; Dad from the Dad reference (salt-and-pepper mustache, reading glasses; grey shirt, navy sweater vest), quietly proud, deep stern older male voice; Mom from the Mom reference (low bun, nose stud; maroon kurta), beaming, soft warm older female voice; Arjun from the Cousin-Arjun reference (side-parted hair, wire glasses; white doctor's coat over navy scrubs), stunned, smooth polite young male voice. Shot 1 (0-3s): Arjun leans over Dad's shoulder, staring at the tablet; he says: \"Wait... that's Raghav?\" Shot 2 (3-6s): Raghav sets the gift box on the table; Mom beams with pride; she says: \"That's my son.\" Shot 3 (6-9s): Dad clears his throat, a small proud smile under his mustache; he says: \"Cartoons... pay bills?\" Shot 4 (9-11s): Raghav, light closed-mouth smirk; he says: \"Cartoons, Dad.\" Shot 5 (11-13s): Arjun, stunned; he says: \"How did you...?\" Shot 6 (13-15s): close-up, Raghav turns and looks straight into the camera; he says: \"Five steps.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Early",
+   "Set-Restaurant"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, the two candles on the table as warm soft key light on faces, soft rim light from the restaurant behind, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, a phone buzzing hard on the table, soft restaurant ambience and clinking glasses only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the elegant restaurant table for two from the Set-Restaurant reference image. The phone screen shows only a soft glow, no readable text. STAGING: Raghav sits alone at the table for two, the opposite chair empty; a waiter in a black vest and bow tie approaches from the side; nobody walks through the table. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), hopeful, then hurt, then quietly determined, warm mid-range young male voice; the waiter (thin older man, grey hair, black vest, bow tie), awkward, polite older male voice; the date is never shown, only her voice from the phone: cool young female voice. Shot 1 (0-2s): extreme close-up, his phone lights up and buzzes hard on the white tablecloth between the two candles. Shot 2 (2-6s): Raghav picks it up and plays a voice message; the cool young female voice from the phone says: \"Call me when you're actually somebody.\" Shot 3 (6-10s): the waiter quietly removes the empty second place setting, awkward; he says: \"Table for one, then?\" Shot 4 (10-15s): close-up, Raghav alone, jaw tight, leans in and blows out one candle, smoke curling, a spark of determination in his eyes. He says nothing."
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 12,
+  "refs": [
+   "Raghav-Early",
+   "Set-Desk"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, a warm desk lamp and a single candle as soft key light on his face, soft laptop glow as fill, soft rim light from the window, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: ONLY diegetic sound effects (a match striking, keyboard typing, mouse clicks, a soft notification chime) and his dialogue. Absolutely no music of any kind, no song, no beat, no score. No subtitles, no on screen text, no text bubbles. Setting: the bedroom desk at night from the Set-Desk reference image. The laptop screen shows only soft abstract glowing shapes, no interface, no logos, no readable text. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), determined, then a small proud smile, warm mid-range young male voice. Quick montage: Shot 1 (0-3s): he lights a single candle next to his laptop, sits down and flips the laptop open; he says: \"One idea.\" Shot 2 (3-6s): his face lit by the screen, typing fast, leaning in with a grin; he says: \"One explainer.\" Shot 3 (6-9s): he clicks once, a soft chime, he leans back; he says: \"Post it. Again.\" Shot 4 (9-12s): a later night, coffee mugs piled up, the candle burned down, he blows it out with a small proud smile; he says: \"Getting there.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Later",
+   "Zara",
+   "Set-Rooftop"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, warm string lights as soft key light on faces, cool city glow as rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, party chatter, camera shutter clicks and a phone ringtone only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the rooftop party at night from the Set-Rooftop reference image. Phone screens show only a soft glow, no readable text. STAGING: Raghav stands near the railing surrounded by a few excited partygoers holding up phones for pictures; Zara walks in from the bar side and stops a few steps away; nobody walks through the furniture or railing. Characters: Raghav from the Raghav-Later reference (same face, jet-black mullet with high fade, full beard; open black overshirt over a white t-shirt, thin gold chain), calm, half-lidded, light closed-mouth smirk, warm mid-range young male voice, relaxed; Zara from the Zara reference (long straight black hair with blunt bangs; emerald satin dress, cream blazer, gold clutch), stunned then embarrassed, cool young female voice. Shot 1 (0-4s): wide shot, partygoers crowd Raghav for photos; Zara stops dead, staring; she says: \"Raghav...? Hey, stranger.\" Shot 2 (4-7s): Raghav glances over at her, unbothered; his phone starts ringing in his hand. Shot 3 (7-11s): he lifts the ringing phone with a light closed-mouth smirk; he says: \"I'm somebody now. I'll call you.\" Shot 4 (11-13s): Zara, stunned; she says: \"How did you...?\" Shot 5 (13-15s): close-up, Raghav turns and looks straight into the camera; he says: \"Five steps.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Later",
+   "Zara",
+   "Set-Rooftop"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, warm string lights as soft key light on faces, cool city glow as rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, party chatter, camera shutter clicks and a phone ringtone only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the rooftop party at night from the Set-Rooftop reference image. Phone screens show only a soft glow, no readable text. STAGING: Raghav stands near the railing surrounded by a few excited partygoers holding up phones for pictures; Zara walks in from the bar side and stops a few steps away; nobody walks through the furniture or railing. Characters: Raghav from the Raghav-Later reference (same face, jet-black mullet with high fade, full beard; open black overshirt over a white t-shirt, thin gold chain), calm, half-lidded, light closed-mouth smirk, warm mid-range young male voice, relaxed; Zara from the Zara reference (long straight black hair with blunt bangs; emerald satin dress, cream blazer, gold clutch), stunned then embarrassed, cool young female voice. Shot 1 (0-4s): wide shot, partygoers crowd Raghav for photos; Zara stops dead, staring; she says: \"Raghav...? Hey, stranger.\" Shot 2 (4-7s): Raghav glances over at her, unbothered; his phone starts ringing in his hand. Shot 3 (7-11s): he lifts the ringing phone with a light closed-mouth smirk; he says: \"I'm somebody now. I'll call you.\" Shot 4 (11-13s): Zara, stunned; she says: \"How did you...?\" Shot 5 (13-15s): close-up, Raghav turns and looks straight into the camera; he says: \"Five steps.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Hank",
+   "Raghav-Early",
+   "Set-Driveway"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, bright morning sunlight as soft key light on faces, soft rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, heavy stomping footsteps, a whoosh on the zoom, birds and a creaky van door only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the suburban street and driveway from the Set-Driveway reference image, the rusty beige minivan parked on the driveway. STAGING: Hank storms down the driveway toward the camera; the minivan stays parked on the driveway; Raghav stays inside the van and only leans out of the side window; nobody walks through the van or the hedges. Characters: Hank from the Hank reference (enormous, fiery-red bushy beard, buzzed red hair, aviator sunglasses on his forehead; sleeveless green plaid flannel, cargo shorts, work boots), furious, booming deep gravelly male voice; Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), sleepy then sheepish then quietly determined, warm mid-range young male voice. Shot 1 (0-1s): wide shot, Hank storms straight toward the camera down his driveway, pointing a huge finger. Shot 2 (1-4s): a sudden fast CRASH ZOOM into an extreme close-up of Hank's furious face filling the frame, veins popping, he roars: \"Get that thing off my driveway!\" Shot 3 (4-8s): reveal: the camera whips around to the rusty minivan on the driveway; Raghav, half asleep with messy hair, slides the side window open and pokes his head out, a laptop glowing beside him; he says: \"It's... temporary?\" Shot 4 (8-11s): Hank leans down right into the window, nose to nose; he growls: \"You've got till sundown, cartoon boy.\" Shot 5 (11-15s): close-up, Raghav alone in the van window, jaw tight, slowly pulls the laptop onto his lap, a spark of determination in his eyes. He says nothing."
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 12,
+  "refs": [
+   "Raghav-Early",
+   "Set-Van"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, warm fairy string lights and a small clip lamp as soft key light on his face, soft laptop glow as fill, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: ONLY diegetic sound effects (soft rain on the van roof, keyboard typing, mouse clicks, a soft notification chime, a marker squeak) and his dialogue. Absolutely no music of any kind, no song, no beat, no score. No subtitles, no on screen text, no text bubbles. Setting: the minivan interior at night from the Set-Van reference image. The laptop screen shows only soft abstract glowing shapes, no interface, no logos, no readable text. The paper calendar on the ceiling has no readable text. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), determined, then a small proud smile, warm mid-range young male voice. Quick montage: Shot 1 (0-3s): he sits cross-legged on the mattress, opens the laptop on the milk crate; he says: \"One idea.\" Shot 2 (3-6s): his face lit by the screen, typing fast, leaning in with a grin; he says: \"One explainer.\" Shot 3 (6-9s): he clicks once, a soft chime, he leans back against the van wall; he says: \"Post it. Again.\" Shot 4 (9-12s): a later night, noodle cups piled up, he reaches up and crosses off the last day on the calendar taped to the van ceiling with a marker, small proud smile; he says: \"Last night in the van.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 15,
+  "refs": [
+   "Raghav-Later",
+   "Hank",
+   "Set-Driveway",
+   "Prop-Car"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, warm golden afternoon sunlight as soft key light on faces, soft rim light, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: dialogue, a garden hose spraying, a smooth sports car engine purring and a car door closing, a whoosh on the zoom only, absolutely no background music, no song, no beat, no score. No subtitles, no on screen text. Setting: the same suburban street and driveway from the Set-Driveway reference image, the rusty minivan is gone, the driveway is empty. STAGING: Hank stands on his own driveway holding a garden hose; the matte-black sports car from the Prop-Car reference pulls up and parks at the street curb, NOT on the driveway; Raghav steps out of the car and stands beside it at the curb; nobody walks through the car or the hedges. Characters: Raghav from the Raghav-Later reference (same face, jet-black mullet with high fade, full beard; open black overshirt over a white t-shirt, thin gold chain), calm, half-lidded, light closed-mouth smirk, warm mid-range young male voice, relaxed; Hank from the Hank reference (fiery-red bushy beard; sleeveless green plaid flannel, cargo shorts), shocked, booming deep gravelly male voice. Shot 1 (0-3s): Hank is spraying his lawn with a hose when the sleek matte-black sports car glides up and parks at the curb; the hose sags. Shot 2 (3-6s): a sudden fast CRASH ZOOM into an extreme close-up of Hank squinting in disbelief; he says: \"Is that... the van kid?\" Shot 3 (6-10s): Raghav steps out of the car, closes the door, light closed-mouth smirk, nods at the curb; he says: \"Relax. It's not on your driveway.\" Shot 4 (10-13s): Hank, water spraying onto his own boots, stunned; he says: \"How did you...?\" Shot 5 (13-15s): close-up, Raghav turns and looks straight into the camera; he says: \"Five steps.\""
+ },
+ {
+  "model": "byte-plus-seedance-2-5",
+  "mode": "element2video",
+  "duration": 10,
+  "refs": [
+   "Raghav-Early",
+   "Set-Van"
+  ],
+  "prompt": "Stylized 3D animated feature film, Pixar style, high end animation studio look, expressive faces, crisp detail, warm fairy string lights and a small clip lamp as soft key light on his face, vertical 9:16. Natural lip sync, clear pronunciation. Language: English only. Audio: ONLY diegetic sound effects (soft rain on the van roof, a rapid string of soft notification pings that keeps speeding up) and his dialogue. Absolutely no music of any kind, no song, no beat, no score. No subtitles, no on screen text. Setting: the minivan interior at night from the Set-Van reference image. IMPORTANT: the laptop screen is a perfectly flat, evenly lit, solid bright chroma-key green rectangle (pure green #00FF00) with nothing on it at all: no interface, no shapes, no reflections, no text; it stays exactly the same solid green for the entire clip and is never blocked by his hands or head. Characters: Raghav from the Raghav-Early reference (stocky young man, jet-black mullet with high fade, full beard; charcoal oversized t-shirt), stunned, then disbelieving joy, warm mid-range young male voice. Shot 1 (0-4s): camera completely locked off, no camera movement: over-the-shoulder shot from behind and slightly to the right of Raghav, the open laptop on the milk crate in front of him, its whole green screen large, flat and fully visible in the center of the frame, facing the camera squarely; he slowly leans closer to the screen, freezing, one hand drifting off the trackpad. Shot 2 (4-10s): cut to a front medium close-up of Raghav's face, camera in front of him where the laptop is, the laptop is out of frame; his face lit by the screen glow, eyes going wide, jaw dropping, he whispers: \"No way.\" then grabs his head with both hands, laughing in disbelief, and says: \"Wait... that's from ONE video?\""
+ }
+]

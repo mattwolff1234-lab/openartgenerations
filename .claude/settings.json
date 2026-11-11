@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Bash",
+      "Read",
+      "Edit",
+      "Write",
+      "WebFetch",
+      "WebSearch",
+      "mcp__Higgsfield",
+      "mcp__Open_Art",
+      "mcp__claude_ai_Higgsfield",
+      "mcp__claude_ai_Open_Art",
+      "mcp__claude_ai_OpenArt"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+AUTO-CASTING FROM THE HERO
+
+Input: the approved hero character sheet (media id) + the chosen format's cast list from formats/FORMATS.md.
+Call: Higgsfield generate_image_batch, one request per role, model nano_banana_pro, aspect_ratio 3:2, medias = [hero sheet as image_references]. ~2 credits each. QA in the sandbox with image_paths, regenerate a role once if it looks too much like the hero (CONTRAST) or not enough (FAMILY).
+
+Step 1. Design each role yourself before prompting (write it down, specific and distinctive):
+- age, build, height relative to the hero
+- face shape, nose, eyes, brows (CONTRAST: change at least 3; FAMILY: keep the hero's skin tone, eye shape, nose and hair colour, change age, hairstyle and build)
+- hair: colour + texture + cut (CONTRAST: different colour or texture from the hero AND from every other cast member)
+- one signature accessory that reads in a wide shot (lanyard, bucket hat, reading glasses on a chain, bow tie...)
+- outfit + palette (each cast member gets its own dominant colour so they're readable at a glance)
+- voice line for later clips (e.g. "smooth smug baritone"); keep it identical in every clip
+Avoid generic designs ("big bald muscular guy") which can trip IP checks, and never base anyone on a real person.
+
+Step 2. Prompt per role:
+
+A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title "CHARACTER SHEET", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups).
+[CONTRAST roles:] It shows a completely different, original person, NOT the person in the reference.
+[FAMILY roles:] It shows the reference character's [mother / father / cousin / sibling]: a clearly related family member who shares the reference character's skin tone, eye shape, nose and hair colour, but is a distinct person: [age], [build], [own hairstyle], [own facial hair or none].
+[NAME]: [age], [build], [skin tone], [face shape], [eyes], [brows], [hair colour, texture, cut], [signature accessory]. Outfit: [top], [bottom], [shoes], [jewellery], dominant colour [colour].
+Expressions: NEUTRAL [their default attitude, e.g. smug / disappointed / cool]; HAPPY [their version, e.g. cocky grin / proud smile]; SURPRISED stunned, eyes wide; TALKING [how they talk, e.g. condescending mid-sentence].
+Classic Pixar appeal, not photorealistic, not anime, adult proportions. No extra people, no props, no logos, no readable text on badges or clothing, no extra text beyond the title and the eight labels.
+
+Step 3. Hero outfit sheets: one per look the format needs ("early" from the photos; "later" glow-up via prompts/character_sheet_later.txt; any special outfit, e.g. a visitor badge in F2 or a holiday sweater in F3, the same way).
+
+Step 4. Save each approved sheet as a Higgsfield element (manage_reference_elements, category character, names like Priya, Boss-Dana, Mom-Early) and upload the same files to OpenArt (Stage 3) with matching labels.
+
+Proven examples (F1, hero = Raghav):
+- Priya (CONTRAST): mid-twenties, slim, warm medium-brown skin, oval face, defined cheekbones, large dark-brown eyes with soft winged eyeliner, long dark-brown wavy hair with a side part, small gold nose stud, gold hoops and bangles; rose-pink wrap midi dress, gold crossbody bag, nude block heels.
+- Brandon (CONTRAST): late twenties, tall and lean, fair with a light tan, clean-shaven (hero has a full beard), narrow angular face, pointed chin, light blue eyes, thin brows, slicked-back blond hair with a sharp side part; navy quarter-zip fleece vest over a light-blue button-down, khakis, brown loafers, blue lanyard with a blank badge, silver watch.

@@ -1,0 +1,11 @@
+Production character sheet of the single person shown in the reference photos, re-imagined as a polished Pixar-inspired 3D animated feature-film character. Keep the likeness unmistakable: same face shape, eyes, nose, brows, facial hair and hairline.
+
+LAYOUT: warm off-white cream seamless background. Large thin dark-gray spaced-out sans-serif title "CHARACTER SHEET" centered at the top. Top row: four evenly spaced full-body standing views, head to toe with both feet visible, labeled underneath in small spaced capitals: FRONT, THREE-QUARTER, SIDE, BACK. Bottom row: four large head-and-shoulders close-ups, labeled underneath: NEUTRAL, HAPPY, SURPRISED, TALKING. Identical character, outfit and proportions in every view.
+
+CHARACTER: [age band, heritage, skin tone]. [build]. [face shape, jaw]. [facial hair: where fuller / faded, colour tints]. [eyes: colour + shape]. [brows]. Hair: [colour, texture, cut, fade, length at back]. [jewellery].
+
+OUTFIT: [top, no graphics], [bottoms], [shoes]. [watch / bracelets / rings].
+
+RENDER: high-end 3D animation studio quality, Pixar/Disney feature-film look, slightly enlarged expressive eyes, smooth subsurface-scattering skin, detailed hair strands and beard texture, soft cloth folds, soft global illumination, three-point studio lighting with gentle rim light, soft contact shadows under the feet. Expressions: NEUTRAL relaxed closed-mouth; HAPPY big warm grin showing teeth; SURPRISED raised brows, wide eyes, open mouth; TALKING mid-sentence, mouth open, animated brows.
+
+No extra people, no props, no logos on clothing, no watermark, no extra text beyond the title and the eight labels, no distorted anatomy, no extra fingers.

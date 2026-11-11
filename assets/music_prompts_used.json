@@ -1,0 +1,57 @@
+[
+ {
+  "params": {
+   "model": "elevenlabs_music_v2_5",
+   "duration": 58,
+   "force_instrumental": true,
+   "batch_size": 2,
+   "prompt": "Original instrumental cartoon film score for a 58-second animated short, Pixar-style orchestral comedy-drama, no vocals, about 100 BPM, one continuous piece with four clear sections. 0:00-0:15 heartbreak: starts with a sudden stinger hit, then sad, tense pizzicato strings and a lonely celesta melody in a minor key, quiet and sparse. 0:15-0:27 the grind: building determination, ticking clock percussion, warm piano ostinato and rising strings, a hopeful lift in the last seconds. 0:27-0:42 the reveal: confident, triumphant and playful, brass hits, swaggering bassline, light snare, a cheeky 'mic drop' feel, major key. 0:42-0:58 the lesson: light, bouncy, upbeat and friendly, plucky strings, glockenspiel and soft claps, steady groove, ending on a clean button. Leave space in the mid frequencies for dialogue, not too busy."
+  },
+  "context": "Background score for the animated skit, mixed under dialogue."
+ },
+ {
+  "params": {
+   "model": "elevenlabs_music_v2_5",
+   "duration": 66,
+   "force_instrumental": true,
+   "prompt": "Original instrumental cartoon film score for a 66-second animated short, Pixar-style orchestral comedy-drama, no vocals, about 100 BPM, one continuous piece with five clear sections. 0:00-0:15 heartbreak: opens with a sudden dramatic stinger hit, then sad, tense pizzicato strings and a lonely celesta melody in a minor key, quiet and sparse. 0:15-0:27 the grind: building determination, ticking clock percussion, warm piano ostinato and rising strings, a hopeful lift at the end. 0:27-0:42 the reveal: confident, triumphant and playful, brass hits, swaggering bassline, light snare, a cheeky mic-drop feel, major key. 0:42-0:57 the lesson: light, bouncy, upbeat and friendly, plucky strings, glockenspiel, soft claps, steady groove. 0:57-1:06 the payoff: big celebratory cartoon finale, cash-register sparkle, rising brass fanfare, ending on a clean final button. Leave space in the mid frequencies for dialogue, not too busy."
+  },
+  "context": "Re-timed background score covering the added CTA clip."
+ },
+ {
+  "params": {
+   "model": "elevenlabs_music_v2_5",
+   "duration": 66,
+   "force_instrumental": true,
+   "prompt": "Original instrumental cartoon film score for a 66-second animated short about getting fired from an office job, Pixar-style orchestral comedy-drama, no vocals, about 100 BPM, one continuous piece with five sections. 0:00-0:15 humiliation: opens with a sudden comedic-dramatic stinger slam, then deflated sad muted trumpet and pizzicato strings in a minor key, office-drone bassoon, sparse. 0:15-0:27 the grind: building determination, ticking clock percussion, warm piano ostinato and rising strings, a hopeful lift at the end. 0:27-0:42 the reveal: confident, triumphant and playful, brass hits, swaggering bassline, light snare, cheeky mic-drop feel, major key. 0:42-0:57 the lesson: light, bouncy, upbeat and friendly, plucky strings, glockenspiel, soft claps, steady groove. 0:57-1:06 the payoff: big celebratory cartoon finale, rising brass fanfare, clean final button. Leave space in the mid frequencies for dialogue, not too busy."
+  },
+  "context": "Score for the F2 Fired skit."
+ },
+ {
+  "params": {
+   "model": "elevenlabs_music_v2_5",
+   "duration": 66,
+   "force_instrumental": true,
+   "prompt": "Original instrumental cartoon film score for a 66-second animated short about a South Asian family dinner roast that turns into pride, Pixar-style orchestral comedy-drama with light Indian color (sitar, tabla, bansuri flute woven into the orchestra), no vocals, about 100 BPM, one continuous piece with five sections. 0:00-0:15 the roast: opens with a sudden stinger hit, then awkward, tense pizzicato strings and a sad bansuri melody in a minor key, sparse. 0:15-0:27 the grind: building determination, soft tabla pulse, warm piano ostinato and rising strings, a tender hopeful lift at the end. 0:27-0:42 the reveal: warm, triumphant and festive, brass and sitar flourishes, celebratory tabla, proud family feeling, major key. 0:42-0:57 the lesson: light, bouncy, upbeat and friendly, plucky strings, glockenspiel, soft claps, steady groove. 0:57-1:06 the payoff: big celebratory cartoon finale, rising brass fanfare, clean final button. Leave space in the mid frequencies for dialogue, not too busy."
+  },
+  "context": "Score for the F3 Family Dinner skit."
+ },
+ {
+  "params": {
+   "model": "elevenlabs_music_v2_5",
+   "duration": 66,
+   "force_instrumental": true,
+   "prompt": "Original instrumental cartoon film score for a 66-second animated short about being stood up on a date and coming back as somebody, Pixar-style orchestral comedy-drama, no vocals, about 100 BPM, one continuous piece with five sections. 0:00-0:15 stood up: opens with a sudden stinger hit, then lonely, romantic-sad solo piano and soft strings in a minor key, restaurant-lounge feel, sparse. 0:15-0:27 the grind: building determination, ticking clock percussion, warm piano ostinato and rising strings, a hopeful lift at the end. 0:27-0:42 the reveal: smooth, confident and playful, jazzy brass hits, swaggering bassline, finger snaps, cheeky mic-drop feel, major key. 0:42-0:57 the lesson: light, bouncy, upbeat and friendly, plucky strings, glockenspiel, soft claps, steady groove. 0:57-1:06 the payoff: big celebratory cartoon finale, rising brass fanfare, clean final button. Leave space in the mid frequencies for dialogue, not too busy."
+  },
+  "context": "Score for the F5 Stood Up skit."
+ },
+ {
+  "params": {
+   "model": "elevenlabs_music_v2_5",
+   "duration": 66,
+   "force_instrumental": true,
+   "prompt": "Original instrumental cartoon film score for a 66-second animated short about a guy living in his van who gets yelled at by a scary neighbor and comes back successful, Pixar-style orchestral comedy, no vocals, about 100 BPM, five sections. 0:00-0:15 the confrontation: opens with a huge comedic dramatic orchestral STINGER hit on the very first beat (a crash zoom moment), then tense, stompy low brass and tuba with pizzicato, comically menacing, then deflating sad clarinet. 0:15-0:27 the grind: cozy late-night determination, soft rain feel, ticking clock percussion, warm piano ostinato and rising strings, a hopeful lift at the end. 0:27-0:42 the reveal: confident, triumphant and playful, swaggering bassline, brass hits, cheeky mic-drop feel, major key. 0:42-0:57 the lesson: light, bouncy, upbeat and friendly, plucky strings, glockenspiel, soft claps, steady groove. 0:57-1:06 the payoff: warm celebratory finale, soft brass, clean final button. Leave space in the mid frequencies for dialogue, not too busy."
+  },
+  "context": "Score for the driveway skit."
+ }
+]

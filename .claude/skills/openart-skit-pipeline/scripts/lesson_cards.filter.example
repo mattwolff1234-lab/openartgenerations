@@ -1,0 +1,33 @@
+# Lesson clip (c4) with screen-recording cards, explainer payoff and platform icons.
+# Proven timings from the Raghav run; re-time every enable window to the whisper word timestamps of YOUR clip 4.
+#
+# Prep:
+#   masks:   convert -size WxH xc:black -fill white -draw "roundrectangle 0,0,W-1,H-1,24,24" m_WxH.png
+#   shadows: convert -size (W+40)x(H+40) xc:none -fill 'rgba(0,0,0,0.6)' -draw "roundrectangle 20,20,W+19,H+19,26,26" -blur 0x14 sh_WxH.png
+#
+# Inputs:
+#   0 c4.mp4  1 url_typing.mp4  2 tile_click.mp4 (already privacy-cropped)  3 explainer_form.mp4  4 explainer_payoff.mp4
+#   5 m_920x100.png 6 m_920x560.png 7 m_480x700.png 8 m_400x711.png        (each: -loop 1 -t 20 -i ...)
+#   9 sh_920x100.png 10 sh_920x560.png 11 sh_480x700.png 12 sh_400x711.png 13 icons_row.png
+#
+# Run: ffmpeg -i c4.mp4 -i ... -filter_complex_script lesson.filter -map "[v]" -map 0:a -t <dur> <encode opts> n4.mp4
+
+# Step 1 (0-3.22s): URL typing, crop = address-bar row only (no history dropdown)
+[1:v]trim=0.3:3.52,setpts=PTS-STARTPTS,fps=24,crop=510:55:250:100,scale=920:100,format=rgba[a0];[5:v]format=gray[ma];[a0][ma]alphamerge[A];
+# Step 2a (3.22-5.40s): Quick Starts -> Explainer tile click
+[2:v]trim=2.3:5.6,setpts=(PTS-STARTPTS)*0.6606,fps=24,scale=920:560,format=rgba[t0];[6:v]format=gray[mt];[t0][mt]alphamerge,setpts=PTS+3.22/TB[T];
+# Steps 2b-4 (5.40-12.82s): form panel only (crop drops the left carousel and the macOS recording pill)
+[3:v]split=3[f1][f2][f3];
+[f1]trim=13.0:19.0,setpts=(PTS-STARTPTS)*0.2167[b1];
+[f2]trim=19.0:24.2,setpts=(PTS-STARTPTS)*0.6731[b2];
+[f3]trim=23.8:25.9,setpts=(PTS-STARTPTS)*1.2476[b3];
+[b1][b2][b3]concat=n=3:v=1:a=0,fps=24,crop=410:598:530:0,scale=480:700,format=rgba[bb];[7:v]format=gray[mb];[bb][mb]alphamerge,setpts=PTS+5.40/TB[B];
+# Step 5 (12.82-14.35s): finished explainer, 4x speed, muted
+[4:v]trim=0:6.1,setpts=(PTS-STARTPTS)/4,fps=24,scale=400:711,format=rgba[e0];[8:v]format=gray[me];[e0][me]alphamerge,setpts=PTS+12.82/TB[E];
+# Composite: shadow first, then card, each only in its window
+[0:v][9:v]overlay=60:1180:enable='between(t,0,3.22)'[v1];[v1][A]overlay=80:1200:enable='between(t,0,3.22)':eof_action=pass[v2];
+[v2][10:v]overlay=60:1180:enable='between(t,3.22,5.40)'[v3];[v3][T]overlay=80:1200:enable='between(t,3.22,5.40)':eof_action=pass[v4];
+[v4][11:v]overlay=280:1150:enable='between(t,5.40,12.82)'[v5];[v5][B]overlay=300:1170:enable='between(t,5.40,12.82)':eof_action=pass[v6];
+[v6][12:v]overlay=320:1140:enable='between(t,12.82,14.35)'[v7];[v7][E]overlay=340:1160:enable='between(t,12.82,14.35)':eof_action=pass[v8];
+[v8][13:v]overlay=80:1350:enable='between(t,14.35,15.07)'[v9];
+[v9]subtitles=c4.ass:fontsdir=/usr/share/fonts/truetype/higgsfield[v]

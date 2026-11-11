@@ -1,0 +1,6 @@
+# CTA clip (c5): optional rising $ counter (COACH APPROVAL REQUIRED: implied income), openart.ai/try pill, captions.
+# Counter eases from $123 to $999 between 0.6s and 2.6s, pops at the end, visible 0.5-3.15s. Re-time to the line.
+# Run: ffmpeg -i c5.mp4 -filter_complex_script cta.filter -map "[v]" -map 0:a <encode opts> n5.mp4
+[0:v]drawtext=fontfile=/usr/share/fonts/truetype/higgsfield/Metropolis-ExtraBold.ttf:text='$%{eif\:123+876*(1-pow(1-min(1\,max(0\,(t-0.6)/2.0))\,3))\:d}':fontsize='if(lt(t,2.6),190,190+40*max(0,1-(t-2.6)/0.25))':fontcolor=0x3DDC84:borderw=7:bordercolor=0x0B3D1E:shadowx=0:shadowy=6:shadowcolor=black@0.5:x=(w-tw)/2:y=330-th/2:enable='between(t,0.5,3.15)',drawbox=x=330:y=1780:w=420:h=84:color=black@0.45:t=fill,drawtext=fontfile=/usr/share/fonts/truetype/higgsfield/Metropolis-ExtraBold.ttf:text='openart.ai/try':fontsize=50:fontcolor=white:x=(w-tw)/2:y=1822-th/2,subtitles=c5.ass:fontsdir=/usr/share/fonts/truetype/higgsfield[v]
+
+# Without the money beat: delete the first drawtext (the counter) and keep the pill + captions.

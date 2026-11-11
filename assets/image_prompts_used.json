@@ -1,0 +1,262 @@
+[
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "prompt": "test",
+  "medias": [
+   {
+    "value": "8f691563-3220-4f17-a0b0-4a41922eb4f6",
+    "role": "image"
+   },
+   {
+    "value": "75e824f7-4cb1-41b2-a47c-06b2e9d0b2b0",
+    "role": "image"
+   }
+  ]
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "8f691563-3220-4f17-a0b0-4a41922eb4f6",
+    "role": "image_references"
+   },
+   {
+    "value": "75e824f7-4cb1-41b2-a47c-06b2e9d0b2b0",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "Production character sheet of the single man shown in the two reference photos, re-imagined as a polished Pixar-inspired 3D animated feature-film character. Keep his likeness unmistakable: same face shape, same eyes, nose, brows, beard shape and hairline.\n\nLAYOUT: warm off-white cream seamless background. Large thin dark-gray spaced-out sans-serif title \"CHARACTER SHEET\" centered at the top. Top row: four evenly spaced full-body standing views, head to toe with both feet visible, labeled underneath in small spaced capitals: FRONT, THREE-QUARTER, SIDE, BACK. Bottom row: four large head-and-shoulders close-ups, labeled underneath: NEUTRAL, HAPPY, SURPRISED, TALKING. Identical character, outfit and proportions in every view.\n\nCHARACTER: man in his mid-twenties of South Asian heritage, warm light-wheat skin tone. Broad, solid, slightly stocky build with a thick neck and strong shoulders, adult proportions, not a babyface. Slightly full face with defined jaw under a full, neatly groomed dark-brown-black beard and connected mustache, faint warm reddish-brown tint in the beard at the chin, clean cheek line. Warm dark-brown eyes, thick straight dark eyebrows, calm confident expression. Hair: thick, voluminous jet-black textured modern mullet, messy swept-up volume on top falling slightly forward, high skin taper fade on the sides, longer flowing length at the back of the neck. Small gold hoop earring in each ear.\n\nOUTFIT: plain oversized charcoal-gray crew-neck t-shirt with no graphics, dark relaxed straight-leg jeans, clean white low-top sneakers. Black square smartwatch with a black-and-red striped strap on his left wrist. On his right wrist a dark beaded bracelet (tiger-eye and hematite beads) and a thin red-and-yellow thread bracelet. Gold ring with a small green stone on one finger.\n\nRENDER: high-end 3D animation studio quality, Pixar/Disney feature-film look, slightly enlarged expressive eyes, smooth subsurface-scattering skin, detailed hair strands and beard texture, soft cloth folds, soft global illumination, three-point studio lighting with gentle rim light, soft contact shadows under the feet. Expressions: NEUTRAL relaxed closed-mouth; HAPPY big warm grin showing teeth; SURPRISED raised brows, wide eyes, open mouth; TALKING mid-sentence, mouth open, animated brows.\n\nNo extra people, no props, no logos on clothing, no watermark, no extra text beyond the title and the eight labels, no distorted anatomy, no extra fingers."
+ },
+ {
+  "model": "gpt_image_2_5",
+  "aspect_ratio": "16:9",
+  "prompt": "test",
+  "medias": [
+   {
+    "value": "8f691563-3220-4f17-a0b0-4a41922eb4f6",
+    "role": "image_references"
+   },
+   {
+    "value": "75e824f7-4cb1-41b2-a47c-06b2e9d0b2b0",
+    "role": "image_references"
+   }
+  ]
+ },
+ {
+  "model": "gpt_image_2_5",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "value": "8f691563-3220-4f17-a0b0-4a41922eb4f6",
+    "role": "image_references"
+   },
+   {
+    "value": "75e824f7-4cb1-41b2-a47c-06b2e9d0b2b0",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "Pixar style 3D animated feature film character turnaround sheet, white background, front, three quarter and side views plus a face close up. Classic Pixar character design: slightly larger head and eyes than real life, soft rounded appealing shapes, smooth stylized skin, expressive eyebrows, warm friendly appeal. Not photorealistic, not anime, not a caricature. Clearly recognizable as the EXACT same person from the reference photos: man in his mid twenties; jet black thick slightly coarse hair in a modern mullet, messy volume swept up and forward on top, high taper fade on the sides, longer at the nape of the neck; broad slightly full face with soft round cheeks, jaw mostly hidden by the beard; medium-large nose with a straight bridge and a slightly broad rounded tip; dark brown almond-shaped eyes with slightly heavy lids; thick dark mostly straight eyebrows with a slight arch; full beard, fullest at the chin and jawline, shorter on the upper cheeks, connected mustache, warm reddish-brown tint at the chin; light warm wheat skin; broad stocky build with a big chest, big arms and a thick neck; small gold hoop earring in each ear; black smartwatch with a red and black striped strap on the left wrist; dark beaded bracelet and a thin red thread bracelet on the right wrist. Expression and energy: early arc, bright and full-eyed, hopeful and a little bubbly, open warm smile. Outfit: plain oversized charcoal gray crew-neck t-shirt with no graphics, dark relaxed jeans, white low-top sneakers. No text labels."
+ },
+ {
+  "model": "gpt_image_2_5",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "value": "8f691563-3220-4f17-a0b0-4a41922eb4f6",
+    "role": "image_references"
+   },
+   {
+    "value": "75e824f7-4cb1-41b2-a47c-06b2e9d0b2b0",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "Pixar style 3D animated feature film character turnaround sheet, white background, front, three quarter and side views plus a face close up. Classic Pixar character design: slightly larger head and eyes than real life, soft rounded appealing shapes, smooth stylized skin, expressive eyebrows, warm friendly appeal. Not photorealistic, not anime, not a caricature. Clearly recognizable as the EXACT same person from the reference photos: man in his mid twenties; jet black thick slightly coarse hair in a modern mullet, messy volume swept up and forward on top, high taper fade on the sides, longer at the nape of the neck; broad slightly full face with soft round cheeks, jaw mostly hidden by the beard; medium-large nose with a straight bridge and a slightly broad rounded tip; dark brown almond-shaped eyes with slightly heavy lids; thick dark mostly straight eyebrows with a slight arch; full beard, fullest at the chin and jawline, shorter on the upper cheeks, connected mustache, warm reddish-brown tint at the chin; light warm wheat skin; broad stocky build with a big chest, big arms and a thick neck; small gold hoop earring in each ear; black smartwatch with a red and black striped strap on the left wrist. Expression and energy: later arc after success, calm and self-assured, half-lidded eyes, light closed-mouth smirk. Outfit: open black overshirt over a crisp white crew-neck t-shirt, thin gold chain, black tapered trousers, clean white leather sneakers. No text labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "The EXACT same character as the reference character sheet: identical face, eyes, nose, beard, jet-black mullet with high fade, stocky build, skin tone, gold hoop earrings, and the identical Pixar-style 3D render style. Identical sheet layout: warm cream background, thin spaced title \"CHARACTER SHEET\" at the top, top row four full-body standing views labeled FRONT, THREE-QUARTER, SIDE, BACK, bottom row four head-and-shoulders close-ups labeled NEUTRAL, HAPPY, SURPRISED, TALKING. Change ONLY the outfit and the energy. Later arc after success: calm and self-assured, half-lidded eyes, light closed-mouth smirk. NEUTRAL: calm half-lidded smirk. HAPPY: confident closed-mouth grin. SURPRISED: one eyebrow slightly raised, amused. TALKING: relaxed and confident mid-sentence. Outfit: open black overshirt with sleeves rolled to the forearm over a crisp white crew-neck t-shirt, thin gold chain necklace, black tapered trousers, clean white leather sneakers. Keep the black smartwatch with a red and black striped strap on his left wrist and the dark beaded bracelet with a thin red thread on his right wrist. Hair slightly fresher and neater but the same mullet and fade. No extra people, no props, no logos, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title \"CHARACTER SHEET\", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups), but showing a completely different, original person, NOT the man in the reference. Priya: a young woman in her mid twenties of South Asian heritage, warm medium-brown skin, slim build, oval face with defined cheekbones, large dark-brown eyes with soft winged eyeliner, long dark-brown wavy hair past her shoulders with a soft side part, small gold nose stud, gold hoop earrings, thin gold bangles on her left wrist. Outfit: rose-pink wrap midi dress, small gold crossbody bag, nude block-heel sandals. Expressions: NEUTRAL cool and distant; HAPPY polite tight smile; SURPRISED stunned, jaw dropped; TALKING dismissive mid-sentence with one eyebrow raised. Classic Pixar appeal, not photorealistic, not anime. No extra people, no props, no logos, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title \"CHARACTER SHEET\", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups), but showing a completely different, original person, NOT the man in the reference. Brandon: a man in his late twenties, tall and lean, fair skin with a light tan, clean-shaven with no beard, narrow angular face with a pointed chin, light blue eyes, thin eyebrows, slicked-back blond hair with a sharp side part. Outfit: navy quarter-zip fleece vest over a light-blue button-down shirt, khaki chinos, brown loafers, a blue office lanyard with a blank white ID badge around his neck, silver wristwatch. Expressions: NEUTRAL smug; HAPPY cocky grin; SURPRISED stunned, eyes wide; TALKING condescending mid-sentence. Classic Pixar appeal, not photorealistic, not anime. No extra people, no props, no logos, no readable text on the badge, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. A small apartment entryway at evening seen from inside: the front door wide open onto a narrow apartment hallway lit by a warm brass wall sconce, a coat hook with a hoodie, a small shoe rack, a narrow side table by the door with a key bowl, warm interior lamp light, worn wooden floor, soft rim light. High detail, cinematic composition with room for two people in the doorway and one in the hallway. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. A small bedroom desk corner at night: a laptop open on a wooden desk with a softly glowing blank blue screen (no interface, no text), a warm desk lamp as the main light, a small terracotta pot on the desk with soil and a tiny green sprout, a coffee mug, a desk chair, a window behind showing night city lights. Cozy, slightly messy, high detail. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. A bright cozy modern caf\u00e9 in morning sunlight through large windows: a small two-seat wooden table in the foreground with a tall leafy green plant in a terracotta pot beside it, a flat-screen TV mounted on the back wall with a blank dark screen, warm pendant lights, hanging plants, an espresso bar in the soft background. High detail, warm and inviting. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. A stylish upscale home office at night in a high-rise apartment: a dark walnut desk centered in the lower third with a slim silver laptop open on the right side of the desk angled toward the empty desk chair (screen facing away from camera), a brass dome desk lamp on the left casting warm golden light across the desk, an empty high-back black leather office chair behind the desk, floor-to-ceiling windows behind showing a glittering night city skyline, dark navy paneled walls, a tall bookshelf with books and a small plant, a large framed abstract art print in muted gold and navy. The front edge of the desk and the space in front of the chair are clear and uncluttered. Moody, warm key light from the lamp, cool blue city glow, cinematic, high detail. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "16:9",
+  "prompt": "Pixar style 3D animated film hero prop reference: a sleek low two-door matte-black sports coupe parked at a sunny city curb outside a caf\u00e9, three-quarter front view, smooth sculpted original design, thin LED headlights, black wheels, no badges, no emblems, no brand logos, no license plate text. Warm morning sunlight, clean reflections, high detail, stylized 3D animation look. No people, no text."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "1:1",
+  "prompt": "A single stylized Pixar-style 3D cartoon US-style green paper money bill, slightly curved and fluttering, soft rounded edges, simple friendly design with a generic portrait oval and big '$' symbols, no real banknote details, no text other than '$', centered, isolated on a perfectly flat pure chroma-key green background (#00FF00), no shadow on the background, high detail."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "1:1",
+  "prompt": "A single stylized Pixar-style 3D cartoon green paper money bill, slightly curved and fluttering, soft rounded edges, simple friendly design with a generic portrait oval and big '$' symbols, no real banknote details, no text other than '$', centered, isolated on a perfectly flat pure solid magenta background (#FF00FF), no shadow on the background, no magenta or pink anywhere on the bill, high detail."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title \"CHARACTER SHEET\", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups). It shows the reference character's mother: a clearly related family member who shares the reference character's skin tone, eye shape, nose and jet-black hair colour, but is a distinct person: early fifties, soft plump build, shorter than her son, round warm face, small gold nose stud, black hair with a few silver strands pulled into a low bun. Outfit: deep maroon kurta with gold embroidery at the neckline, cream palazzo trousers, simple sandals, thin gold bangles, dominant colour maroon. Expressions: NEUTRAL warm but worried; HAPPY proud beaming smile; SURPRISED hand over mouth, eyes wide; TALKING gentle mid-sentence. Classic Pixar appeal, not photorealistic, not anime, adult proportions. No extra people, no props, no logos, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title \"CHARACTER SHEET\", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups). It shows the reference character's father: a clearly related family member who shares the reference character's skin tone, eye shape and nose, but is a distinct person: late fifties, broad and heavyset, stern face, thick salt-and-pepper mustache and no beard, short neatly combed salt-and-pepper hair with a receding hairline, rectangular reading glasses. Outfit: tucked-in light-grey button-down shirt, navy sweater vest, dark grey trousers, brown leather shoes, steel watch, dominant colour navy. Expressions: NEUTRAL stern and unimpressed; HAPPY rare proud smile under the mustache; SURPRISED glasses slipping down his nose; TALKING lecturing with one finger raised. Classic Pixar appeal, not photorealistic, not anime, adult proportions. No extra people, no props, no logos, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title \"CHARACTER SHEET\", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups). It shows the reference character's cousin: a clearly related family member who shares the reference character's skin tone, eye shape, nose and jet-black hair colour, but is a distinct person: late twenties, tall and slim, clean-shaven, neat short side-parted hair, thin wire-rim glasses, perfect posture. Outfit: navy blue medical scrubs with a crisp white doctor's coat over them, a stethoscope around the neck, white sneakers, dominant colour white and navy. Expressions: NEUTRAL polite and a little smug; HAPPY golden-child grin; SURPRISED genuinely stunned; TALKING humble-bragging mid-sentence. Classic Pixar appeal, not photorealistic, not anime, adult proportions. No extra people, no props, no logos, no readable text on clothing, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title \"CHARACTER SHEET\", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups). It shows a completely different, original person, NOT the person in the reference. Dana, the boss: woman in her early sixties, tall and thin, very upright posture, pale skin with rosy cheeks, long narrow face, sharp nose, pale grey eyes, thin arched brows, sleek silver-white chin-length bob, red-framed reading glasses on a beaded chain. Outfit: tailored charcoal power suit with a crimson silk blouse, black pointed heels, a slim silver watch, dominant colour crimson and charcoal. Expressions: NEUTRAL cold and unimpressed; HAPPY thin satisfied smile; SURPRISED glasses slipping, mouth open; TALKING dismissive mid-sentence. Classic Pixar appeal, not photorealistic, not anime, adult proportions. No extra people, no props, no logos, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title \"CHARACTER SHEET\", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups). It shows a completely different, original person, NOT the person in the reference. Tyler, the smug coworker: man in his late twenties, lanky and skinny, pale freckled skin, long face, big ears, hazel eyes, ginger hair gelled up into stiff spikes, clean-shaven. Outfit: bright green company quarter-zip fleece over a white collared shirt, grey chinos, white sneakers, a green lanyard with a blank badge, holding nothing. Dominant colour bright green. Expressions: NEUTRAL smug smirk; HAPPY cocky grin; SURPRISED jaw dropped; TALKING snide mid-sentence. Classic Pixar appeal, not photorealistic, not anime, adult proportions. No extra people, no props, no logos, no readable text on badges or clothing, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title \"CHARACTER SHEET\", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups). It shows a completely different, original person, NOT the person in the reference. Zara, the date: woman in her mid twenties, petite and slim, light olive skin, heart-shaped face, big dark-green eyes, long straight jet-black hair with blunt bangs, small diamond stud earrings, gold bracelet. Outfit: emerald-green satin slip dress, cropped cream blazer, gold strappy heels, small gold clutch. Dominant colour emerald and gold. Expressions: NEUTRAL bored and aloof; HAPPY charming smile; SURPRISED stunned, eyes wide; TALKING cool and dismissive mid-sentence. Classic Pixar appeal, not photorealistic, not anime, adult proportions. No extra people, no props, no logos, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. A corporate open-plan office in daytime: a grey cubicle desk in the foreground with a desktop monitor showing a blank pale screen, a desk chair, a few personal items, cubicle walls in muted blue, glass-walled manager office behind, harsh cool overhead fluorescent light plus soft window light, a little sad and sterile. Room for two people at the desk. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. A grand modern corporate lobby in bright daylight: polished stone floor, a huge wall-mounted video screen showing a soft blank sky-blue glow, a sleek reception desk, tall windows, potted trees, glass turnstiles, warm sunlight pouring in. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. A warm South Asian family dining room in the evening: a long wooden dining table set for a family dinner with steel and ceramic dishes of food, rice, rotis, glasses of water, framed family photos and a small brass lamp on a sideboard, a pendant light over the table as warm key light, cozy and slightly crowded. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. An elegant upscale restaurant at night: a small table for two in the foreground with a white tablecloth, two lit candles, two wine glasses, folded napkins, an empty chair opposite, warm candlelight as key light, blurred bokeh of other tables and a piano in the background. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. A stylish rooftop party at night above a glittering city skyline: warm string lights overhead, lounge furniture, a small bar with glowing shelves, potted olive trees, a low glass railing, warm string-light key light with cool city glow as rim light, festive atmosphere. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "3:2",
+  "medias": [
+   {
+    "value": "e0f80721-131f-4ee9-bf5b-86f39501e0dd",
+    "role": "image_references"
+   }
+  ],
+  "prompt": "A new character sheet that matches the reference sheet's Pixar-style 3D render style and exact layout (warm cream background, thin spaced title \"CHARACTER SHEET\", top row FRONT, THREE-QUARTER, SIDE, BACK full-body views, bottom row NEUTRAL, HAPPY, SURPRISED, TALKING close-ups). It shows a completely different, original person, NOT the person in the reference. Hank, the scary neighbor: man in his fifties, enormous and towering, barrel chest, huge forearms, fair sunburned skin with rosy cheeks, square jaw, small fierce blue eyes, very thick bushy red eyebrows, a big bushy fiery-red beard, buzzed red hair, aviator sunglasses pushed up on his forehead. Outfit: sleeveless green plaid flannel shirt, khaki cargo shorts, white tube socks, brown work boots, holding nothing. Dominant colour green plaid and red. Expressions: NEUTRAL suspicious glare; HAPPY rare reluctant grin; SURPRISED jaw dropped, eyebrows shot up; TALKING furious, roaring mid-sentence with veins on his forehead. Classic Pixar appeal, not photorealistic, not anime, adult proportions. No extra people, no props, no logos, no extra text beyond the title and the eight labels."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. A sunny American suburban street in the morning: a big tidy two-story house with a perfect green lawn, trimmed hedges and a wide concrete driveway; parked on the driveway is a rusty, dented old beige minivan with a mismatched blue door, a cracked windshield and a mattress and blankets visible through the back window, curtains made of towels. Bright warm morning sun as key light, blue sky, soft rim light. High detail. No people, no text, no logos, no license plate text."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film background set, vertical 9:16, no people. The cramped interior of an old minivan at night turned into a tiny bedroom and workspace: a mattress with rumpled blankets in the back, an open laptop on an upturned milk crate glowing soft blue (blank screen, no interface), warm fairy string lights taped along the roof, a paper calendar taped to the ceiling, instant noodle cups, a small desk lamp clipped to the seat, rain-speckled windows with a dark street outside. Warm string lights and the clip lamp as soft key light. Cozy but cramped, high detail. No people, no text, no logos."
+ },
+ {
+  "model": "nano_banana_pro",
+  "aspect_ratio": "9:16",
+  "prompt": "Pixar style 3D animated film frame, vertical 9:16. Inside a cramped old minivan at night converted into a bedroom: close-up of an open laptop sitting on an upturned milk crate, the camera facing the laptop screen squarely and straight-on, the screen fills the middle 75 percent of the frame width. The laptop screen is a perfectly flat, evenly lit, solid chroma-key green rectangle, pure green, with nothing on it. A young man's hand in a charcoal sleeve rests near the trackpad. Warm fairy string lights as blurred bokeh in the background, rain-speckled window, an instant noodle cup beside the laptop. Warm cozy lighting, shallow depth of field. No text, no logos."
+ }
+]

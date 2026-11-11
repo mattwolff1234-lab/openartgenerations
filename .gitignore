@@ -1,0 +1,5 @@
+media/
+*.tar
+.DS_Store
+__pycache__/
+.claude/settings.local.json

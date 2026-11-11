@@ -1,0 +1,6 @@
+{"font":"Metropolis","size":74,"y":1100,"highlight_color":"&H00D4FF&",
+ "clips":[
+  {"name":"c2","duration":12.06,"replace":{"rents":"Rent's","again":"again."}},
+  {"name":"c4","duration":15.07,"y":1085,"merge":[["openart",".ai","-slash","-try","openart.ai/try"],["click","explainer","Click Explainer"]],"replace":{"direct":"Direct"}},
+  {"name":"c5","duration":8.06,"replace":{"and":"And"},"highlight":["AI"]}
+ ]}

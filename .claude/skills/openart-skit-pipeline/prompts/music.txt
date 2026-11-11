@@ -1,0 +1,5 @@
+Higgsfield generate_audio: model elevenlabs_music_v2_5, force_instrumental true, duration = cut length + 1 (integer seconds).
+
+Original instrumental cartoon film score for a [N]-second animated short, Pixar-style orchestral comedy-drama, no vocals, about 100 BPM, one continuous piece with five clear sections. 0:00-0:15 heartbreak: opens with a sudden dramatic stinger hit, then sad, tense pizzicato strings and a lonely celesta melody in a minor key, quiet and sparse. 0:15-0:27 the grind: building determination, ticking clock percussion, warm piano ostinato and rising strings, a hopeful lift at the end. 0:27-0:42 the reveal: confident, triumphant and playful, brass hits, swaggering bassline, light snare, a cheeky mic-drop feel, major key. 0:42-0:57 the lesson: light, bouncy, upbeat and friendly, plucky strings, glockenspiel, soft claps, steady groove. 0:57-[end] the payoff: big celebratory cartoon finale, rising brass fanfare, ending on a clean final button. Leave space in the mid frequencies for dialogue, not too busy.
+
+(Adjust the section times to the real clip boundaries of the cut.)

@@ -1,0 +1,3 @@
+OpenArt: model byte-plus-seedance-2-5, mode text2video, duration 10, aspectRatio 9:16, resolution 1080p, generateAudio true.
+
+A finished kids science explainer video about [TOPIC], [STYLE picked in the recording, e.g. minimal] clean 3D animated style: soft matte clay-like shapes, pastel palette, simple rounded forms, gentle smooth camera moves, bright even soft lighting, vertical 9:16. Language: English only. Audio: a warm, friendly female narrator voiceover and soft sound effects only, absolutely no music, no song, no beat. No subtitles, no on screen text, no labels, no logos. Shot 1 (0-3s): [...]; the narrator says: "[...]" Shot 2 (3-6s): [...] Shot 3 (6-8s): [...] Shot 4 (8-10s): [...]; the narrator says: "And that's [TOPIC]!"
