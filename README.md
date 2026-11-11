@@ -13,11 +13,11 @@ npm install -g @anthropic-ai/claude-code
 2. Clone this repo and open it:
 
 ```bash
-git clone https://github.com/mattwolff1234-lab/skit-studio.git
+git clone https://github.com/mattwolff1234-lab/openartgenerations.git
 ```
 
 ```bash
-cd skit-studio && claude
+cd openartgenerations && claude
 ```
 
 3. In Claude Code, run `/mcp` and check that **Higgsfield** and **Open Art** are listed and connected. Connectors from your claude.ai account usually show up automatically when you're logged in with that account. If one is missing, add it from that service's MCP setup page (`claude mcp add ...`), then restart `claude`.
